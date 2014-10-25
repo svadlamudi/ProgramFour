@@ -38,7 +38,6 @@ void BinaryTreeWord::insertWord(Word **root, string word, string wordLower, int 
  */
 void BinaryTreeWord::printHeading(FILE *output)      														          /* Begin Function */
 {
-	fprintf(output, "Name: Jordan E. Feeley       Section: C05\n");                                                                                                                        
 	fprintf(output, "Name: Sai Kiran Vadlamudi    Section: C05\n\n");													// Print Author names
 	fprintf(output, "+--------------------+--------------------+--------------------------------------------------+\n");
 	fprintf(output, "|        Word        |        Count       |                      Lines                       |\n");							// Print the column titles to the given output file
