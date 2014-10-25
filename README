@@ -1,0 +1,10 @@
+-- Program 4 -- Jordan Feeley -- Sai Kiran Vadlamudi -- C05 --
+
+
+- Usage: ./prog4 input_file
+     Ex: ./prog4 US_Constitution.txt
+
+- Automatically outputs to a file names "words.txt"
+
+
+- Hyphenated Words count as two words
