@@ -4,7 +4,7 @@
 ListLineNum listLine;
 
 /*
- * Jordan Feeley  C05
+ * Sai Kiran Vadlamudi  C05
  * Create/Insert new word into tree of words
  */
 void BinaryTreeWord::insertWord(Word **root, string word, string wordLower, int lineNum, int &countWord)								    /*** Begin Function ***/
@@ -33,7 +33,7 @@ void BinaryTreeWord::insertWord(Word **root, string word, string wordLower, int 
 }																					   /*** End Function ***/
 
 /*
- * Jordan Feeley  C05
+ * Sai Kiran Vadlamudi  C05
  * Print column labels
  */
 void BinaryTreeWord::printHeading(FILE *output)      														          /* Begin Function */
@@ -46,7 +46,7 @@ void BinaryTreeWord::printHeading(FILE *output)      														          /* 
 }																					  /* End Function */
 
 /*
- * Jordan Feeley  C05
+ * Sai Kiran Vadlamudi  C05
  * Print the tree of words
  */
 void BinaryTreeWord::printTree(FILE *output, Word *root)                                                                                				  /** Begin Function **/
@@ -62,7 +62,7 @@ void BinaryTreeWord::printTree(FILE *output, Word *root)                        
 }                                                                                                                                                			  /** End Function **/
 
 /*
- * Jordan Feeley  C05
+ * Sai Kiran Vadlamudi  C05
  * Print the number of unique words in the text
  */
 void BinaryTreeWord::printWordCount(FILE *output, int countWord)                                                                                			  /* Begin Function */
